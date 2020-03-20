@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{oPCG:function(o,n,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/docs/features/markdown-components",function(){return w("ot+5")}])}},[["oPCG",0,1,2,3]]]);

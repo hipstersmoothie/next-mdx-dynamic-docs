@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{LLm4:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/docs/features/multi-docs",function(){return o("Vuw7")}])}},[["LLm4",0,1,2,3]]]);

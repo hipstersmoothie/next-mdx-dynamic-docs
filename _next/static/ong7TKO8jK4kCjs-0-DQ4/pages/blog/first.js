@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{KRo6:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/blog/first",function(){return w("/3x8")}])}},[["KRo6",0,1,2,3]]]);

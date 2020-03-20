@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{lHMJ:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/docs/advanced-features/next",function(){return o("9JjW")}])}},[["lHMJ",0,1,2,3]]]);

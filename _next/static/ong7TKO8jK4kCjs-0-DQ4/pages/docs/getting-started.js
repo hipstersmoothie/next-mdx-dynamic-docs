@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{vQQN:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/docs/getting-started",function(){return o("6Ec8")}])}},[["vQQN",0,1,2,3]]]);
